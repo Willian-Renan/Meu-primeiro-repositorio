@@ -1,5 +1,5 @@
 # Desafio do projeto do GitHub
-Repositório de Projeto do Git/GitHub
+Meu primeiro repositório no GitHub. Utilizei Git para upar arquivos e pastas.
 
-## Links úteis
+## Comandos úteis para o Git
 [sintaxe basica markdown](https://www.markdownguide.org/basic-syntax)
