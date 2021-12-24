@@ -6,3 +6,13 @@ git bash
 teste
 
 123
+
+
+- visualiar o status dos arquivos
+git status
+- adicionar todos arquivos no upload do git
+git add .
+- preparar os arquivos para upar no git
+git commit
+- realizar upload dos arquivos para o git
+git push origin main
