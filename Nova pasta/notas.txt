@@ -8,6 +8,10 @@ teste
 123
 
 
+- vincular repositório do GitHub a pasta do pc
+git clone link_url_do_github
+- entrar dentro da pasta do repositório no pc
+cd nome_da_pasta_do_repositorio
 - visualiar o status dos arquivos
 git status
 - adicionar todos arquivos no upload do git
