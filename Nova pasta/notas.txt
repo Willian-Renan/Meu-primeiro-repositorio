@@ -3,21 +3,21 @@ https://git-scm.com/download/win
 
 git bash
 
-
--abrir guit bash here na pasta raiz do projeto "DIO-desafio-github" dentro dessa pasta no caso
 - vincular repositório do GitHub a pasta do pc
 git clone link_url_do_github
 - entrar dentro da pasta do repositório no pc
 cd nome_da_pasta_do_repositorio
 
 começa aqui para upar
+-abrir guit bash here na pasta raiz do projeto "DIO-desafio-github" dentro dessa pasta no caso
 - visualiar o status dos arquivos
 git status
-- testar oq faz
-git push
 - adicionar todos arquivos no upload do git
 git add .
 - preparar os arquivos para upar no git
-git commit -m "teste" (em tese desnecessário)
+git commit -m "teste"
 - realizar upload dos arquivos para o git
 git push origin main
+
+- testar oq faz
+git push
