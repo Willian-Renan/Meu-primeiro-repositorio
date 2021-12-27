@@ -1,4 +1,4 @@
-# Desafio do projeto do GitHub
+# Meu primeiro repositório do GitHub
 Meu primeiro repositório no GitHub. Utilizei Git para upar arquivos e pastas.
 
 ## Comandos úteis para o Git
