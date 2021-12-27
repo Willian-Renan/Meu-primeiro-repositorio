@@ -19,5 +19,5 @@ git commit -m "teste"
 - realizar upload dos arquivos para o git
 git push origin main
 
-- testar oq faz
-git push
+- atualiza os arquivos locais
+git pull
