@@ -8,6 +8,7 @@ teste
 123
 
 
+-abrir guit bash here na pasta raiz do projeto "DIO-desafio-github" dentro dessa pasta no caso
 - vincular repositório do GitHub a pasta do pc
 git clone link_url_do_github
 - entrar dentro da pasta do repositório no pc
